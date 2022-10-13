@@ -1,0 +1,7 @@
+matplotlib
+wordcloud
+bs4
+requests
+stop-words
+lxml
+
